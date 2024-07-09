@@ -1,0 +1,13 @@
+.before{
+    transform: scaleY(0);
+    transition: 0.5s;
+}
+
+.after{
+    width: 90% !important; 
+    height:80px !important;
+    border: 2px solid #ce708c !important;
+    margin: auto !important;
+    transform: scaleY(1 ) !important;
+    border-radius: 10px !important;
+}
