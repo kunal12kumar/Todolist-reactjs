@@ -1,0 +1,22 @@
+.submitbox{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* .removebox{
+    position: relative;
+    left: 800px;
+} */
+
+.wholebox{
+    display: flex;
+    display: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+.statusbox{
+    text-decoration: line-through;
+}
